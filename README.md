@@ -7,6 +7,7 @@ The insights from your analysis will feed into the supermarket’s strategic pla
 - Exploratory data analysis
 - Performing Statistical Analysis
 - Data Visualization and Further Analysis
+- 
 ### Task 1
 - Creating and interpreting high level summaries of the data
 - Finding outliers and removing these
@@ -19,3 +20,9 @@ Select control stores – explore the data and define metrics for control store 
 Assessment of the trial – get insights of each of the stores. Compare each trial store with ontrol store to get its overall performance. We want to know if the trial stores were successful or not.
 
 Collate findings – summarise findings for each store and provide recommendations to share with client outlining the impact on sales during trial period.
+
+## Read the article about this project:
+### Task 1
+https://medium.com/@godoftan/%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A-quantium-module-1-3-data-preparation-and-customer-analytics-d72f26b0a3dd
+### Task 2
+https://medium.com/@godoftan/%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A-quantium-module-2-experimentation-and-uplift-testing-3a4e1b78a7d8
